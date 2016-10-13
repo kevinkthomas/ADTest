@@ -1,4 +1,4 @@
-This is file
+This is file..
 that we use to test
 merging in git
 and everything else
