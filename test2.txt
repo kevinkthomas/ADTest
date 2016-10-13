@@ -1,0 +1,10 @@
+This is file
+that we use to test
+merging in git
+and everything else
+It has more than one line
+so we can check
+if cherry picking commits
+has just the changes
+from the commit
+or everything else
