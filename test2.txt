@@ -1,5 +1,5 @@
 This is file
-that we use to test
+that we use to test..
 merging in git
 and everything else
 It has more than one line
